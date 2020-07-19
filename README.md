@@ -1,5 +1,5 @@
 ## Oops
-##Program on Oops in Java
+## Program on Oops in Java
 
 # The purpose of the application is to help a ficticious company called Bills Burgers to manage their process of selling hamburgers.
 # Our application will help Bill to select types of burgers, some of the additional items (additions) to be added to the burgers and pricing
